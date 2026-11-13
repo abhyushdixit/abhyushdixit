@@ -7,13 +7,12 @@
 <br/>
 
 ### 🔄 The Transition (Skills Loading...)
-As a designer, I know how things should look. Now, I'm learning how to build them.
-
-**Design** `██████████` (Figma, UI/UX, Visual Identity)
-**HTML**   `████████░░` (Structuring the web)
-**CSS**    `██████░░░░` (Mastering layouts and responsiveness)
-**JS**     `████░░░░░░` (Learning DOM manipulation)
-**Logic**  `█████░░░░░` (Python & C fundamentals / Basic DSA)
+As a designer, I know how things should look. Now, I'm learning how to build them.<br><br>
+**`Design`** `██████████` (Figma, UI/UX, Visual Identity)<br>
+**`HTML  `** `████████░░` (Structuring the web)<br>
+**`CSS   `** `██████░░░░` (Mastering layouts and responsiveness)<br>
+**`JS    `** `████░░░░░░` (Learning DOM manipulation)<br>
+**`Logic `** `█████░░░░░` (Python & C fundamentals / Basic DSA)
 
 <br/>
 
@@ -22,7 +21,7 @@ As a designer, I know how things should look. Now, I'm learning how to build the
   <!-- These badges are styled specifically for Dark Mode -->
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JS" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -31,7 +30,7 @@ As a designer, I know how things should look. Now, I'm learning how to build the
 <br/>
 
 ### 🌱 Currently Brewing
-> **Building:** A Secret Project! 🤫
+> **Building:** A Secret Project! 🤫<br>
 > **Learning:** Translating pixel-perfect Figma designs into clean, responsive CSS.
 
 <br/>
