@@ -39,6 +39,6 @@ As a designer, I know how things should look. Now, I'm learning how to build the
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/abhyush-dixit/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://abhyushdixit.vercel.app/"><img src="https://img.shields.io/badge/Design_Portfolio-000000?style=for-the-badge&logo=behance&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.behance.net/abhyushdixit"><img src="https://img.shields.io/badge/Design_Portfolio-000000?style=for-the-badge&logo=behance&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:abhyushdixit@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
